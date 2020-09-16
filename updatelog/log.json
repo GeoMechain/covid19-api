@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Kyauktaw, Rakhine\n3 new cases in Sittwe, Rakhine\n1 new case, 2 recoveries in Hlaing, Yangon\n1 recover in Bahan, Yangon\n1 recover in Kamaryut, Yangon",
-    "timestamp": 1598455970
-  },
-  {
     "update": "3 new cases in Mrauk-U, Rakhine\n1 new case in Dagon Myothit (South), Yangon\n2 new cases in Buthidaung, Rakhine",
     "timestamp": 1598496754
   },
@@ -198,5 +194,9 @@
   {
     "update": "23 recoveries in Sittwe, Rakhine\n2 recoveries in Hlaing, Yangon\n1 recover in Ponnagyun, Rakhine\n13 recoveries in Maungdaw, Rakhine\n17 recoveries in Kyaukpyu, Rakhine\n1 recover in Bahan, Yangon\n1 recover in Dagon Myothit (Seikkan), Yangon\n1 recover in Thaketa, Yangon\n1 recover in Tamwe, Yangon\n1 recover in Insein, Yangon\n1 recover in North Okkalapa, Yangon\n6 recoveries in Pauktaw, Rakhine\n1 recover in Rathedaung, Rakhine\n1 recover in Magway, Magway",
     "timestamp": 1600182571
+  },
+  {
+    "update": "1 death in Thingangyun, Yangon",
+    "timestamp": 1600225780
   }
 ]
