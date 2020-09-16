@@ -47,10 +47,10 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "active": 241,
+        "active": 221,
         "confirmed": 324,
         "deceased": 2,
-        "recovered": 81,
+        "recovered": 101,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -59,10 +59,10 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 943,
+        "active": 941,
         "confirmed": 1039,
         "deceased": 13,
-        "recovered": 83,
+        "recovered": 85,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -311,10 +311,10 @@
     "districtData": [
       {
         "district": "Pyay",
-        "active": 1,
+        "active": 0,
         "confirmed": 8,
         "deceased": 1,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -323,10 +323,10 @@
       },
       {
         "district": "Bago",
-        "active": 55,
+        "active": 51,
         "confirmed": 57,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -677,10 +677,10 @@
       },
       {
         "district": "Sittwe",
-        "active": 298,
+        "active": 257,
         "confirmed": 497,
         "deceased": 0,
-        "recovered": 199,
+        "recovered": 240,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -689,10 +689,10 @@
       },
       {
         "district": "Mrauk-U",
-        "active": 71,
+        "active": 45,
         "confirmed": 99,
         "deceased": 0,
-        "recovered": 28,
+        "recovered": 54,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -701,10 +701,10 @@
       },
       {
         "district": "Kyaukpyu",
-        "active": 46,
+        "active": 44,
         "confirmed": 104,
         "deceased": 0,
-        "recovered": 58,
+        "recovered": 60,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 new cases in Mrauk-U, Rakhine\n1 new case in Dagon Myothit (South), Yangon\n2 new cases in Buthidaung, Rakhine",
-    "timestamp": 1598496754
-  },
-  {
     "update": "1 new case in Chanayethazan, Mandalay\n7 new cases in Sittwe, Rakhine\n1 new case in Thingangyun, Yangon\n3 new cases, 4 recoveries in Hlaing, Yangon\n2 new cases in Yankin, Yangon\n2 new cases in North Okkalapa, Yangon",
     "timestamp": 1598538774
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Thingangyun, Yangon",
     "timestamp": 1600225780
+  },
+  {
+    "update": "8 recoveries in Mrauk-U, Rakhine\n2 recoveries in Kyaukpyu, Rakhine\n1 recover in Thingangyun, Yangon\n3 recoveries in Minbya, Rakhine\n1 recover in Pazundaung, Yangon\n1 recover in Mingaladon, Yangon\n4 recoveries in Ponnagyun, Rakhine\n37 recoveries in Sittwe, Rakhine\n1 recover in Insein, Yangon\n17 recoveries in Shwepyithar, Yangon\n1 recover in Hlaingtharya, Yangon\n15 recoveries in Myebon, Rakhine\n1 recover in Padaung, Bago\n4 recoveries in Waw, Bago",
+    "timestamp": 1600239145
   }
 ]
