@@ -1793,7 +1793,7 @@
 	],
 	"statewise": [
 		{
-			"active": 2782,
+			"active": 2445,
 			"confirmed": 3636,
 			"deaths": 22,
 			"deltaconfirmed": 337,
@@ -1805,7 +1805,7 @@
 			"statecode": "TT"
 		},
 		{
-			"active": 11,
+			"active": 10,
 			"confirmed": 20,
 			"deaths": 0,
 			"deltaconfirmed": 1,
@@ -1817,7 +1817,7 @@
 			"statecode": "MM-01"
 		},
 		{
-			"active": 87,
+			"active": 76,
 			"confirmed": 102,
 			"deaths": 1,
 			"deltaconfirmed": 11,
@@ -1841,7 +1841,7 @@
 			"statecode": "MM-03"
 		},
 		{
-			"active": 118,
+			"active": 104,
 			"confirmed": 124,
 			"deaths": 0,
 			"deltaconfirmed": 14,
@@ -1853,7 +1853,7 @@
 			"statecode": "MM-04"
 		},
 		{
-			"active": 8,
+			"active": 5,
 			"confirmed": 13,
 			"deaths": 0,
 			"deltaconfirmed": 3,
@@ -1865,7 +1865,7 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 1971,
+			"active": 1704,
 			"confirmed": 2312,
 			"deaths": 20,
 			"deltaconfirmed": 267,
@@ -1877,7 +1877,7 @@
 			"statecode": "MM-06"
 		},
 		{
-			"active": 60,
+			"active": 39,
 			"confirmed": 62,
 			"deaths": 0,
 			"deltaconfirmed": 21,
@@ -1937,7 +1937,7 @@
 			"statecode": "MM-14"
 		},
 		{
-			"active": 79,
+			"active": 71,
 			"confirmed": 83,
 			"deaths": 1,
 			"deltaconfirmed": 8,
@@ -1949,7 +1949,7 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 373,
+			"active": 365,
 			"confirmed": 777,
 			"deaths": 0,
 			"deltaconfirmed": 8,
@@ -1961,7 +1961,7 @@
 			"statecode": "MM-16"
 		},
 		{
-			"active": 10,
+			"active": 9,
 			"confirmed": 21,
 			"deaths": 0,
 			"deltaconfirmed": 1,
@@ -1973,7 +1973,7 @@
 			"statecode": "MM-17"
 		},
 		{
-			"active": 52,
+			"active": 49,
 			"confirmed": 54,
 			"deaths": 0,
 			"deltaconfirmed": 3,
