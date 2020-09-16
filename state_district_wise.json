@@ -40,7 +40,7 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 283,
+        "active": 221,
         "confirmed": 386,
         "deceased": 2,
         "recovered": 101,
@@ -51,7 +51,7 @@
         }
       },
       "Yangon (East)": {
-        "active": 1025,
+        "active": 941,
         "confirmed": 1123,
         "deceased": 13,
         "recovered": 85,
@@ -62,7 +62,7 @@
         }
       },
       "Yangon (West)": {
-        "active": 539,
+        "active": 458,
         "confirmed": 675,
         "deceased": 4,
         "recovered": 132,
@@ -73,7 +73,7 @@
         }
       },
       "Yangon (South)": {
-        "active": 124,
+        "active": 84,
         "confirmed": 128,
         "deceased": 1,
         "recovered": 3,
@@ -89,7 +89,7 @@
   "Mandalay": {
     "districtData": {
       "Mandalay": {
-        "active": 51,
+        "active": 38,
         "confirmed": 56,
         "deceased": 0,
         "recovered": 5,
@@ -111,7 +111,7 @@
         }
       },
       "Myingyan": {
-        "active": 51,
+        "active": 50,
         "confirmed": 51,
         "deceased": 0,
         "recovered": 0,
@@ -171,7 +171,7 @@
   "Nay Pyi Taw": {
     "districtData": {
       "Det Khi Na": {
-        "active": 40,
+        "active": 38,
         "confirmed": 41,
         "deceased": 0,
         "recovered": 1,
@@ -182,7 +182,7 @@
         }
       },
       "Oke Ta Ra": {
-        "active": 12,
+        "active": 11,
         "confirmed": 13,
         "deceased": 0,
         "recovered": 1,
@@ -209,7 +209,7 @@
         }
       },
       "Taunggyi": {
-        "active": 4,
+        "active": 3,
         "confirmed": 9,
         "deceased": 0,
         "recovered": 5,
@@ -291,7 +291,7 @@
         }
       },
       "Bago": {
-        "active": 60,
+        "active": 51,
         "confirmed": 66,
         "deceased": 0,
         "recovered": 6,
@@ -302,7 +302,7 @@
         }
       },
       "Taungoo": {
-        "active": 21,
+        "active": 19,
         "confirmed": 22,
         "deceased": 0,
         "recovered": 1,
@@ -329,7 +329,7 @@
   "Mon": {
     "districtData": {
       "Mawlamyine": {
-        "active": 67,
+        "active": 64,
         "confirmed": 71,
         "deceased": 1,
         "recovered": 3,
@@ -340,7 +340,7 @@
         }
       },
       "Thaton": {
-        "active": 12,
+        "active": 7,
         "confirmed": 12,
         "deceased": 0,
         "recovered": 0,
@@ -460,7 +460,7 @@
         }
       },
       "Monywa": {
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
@@ -514,7 +514,7 @@
   "Tanintharyi": {
     "districtData": {
       "Myeik": {
-        "active": 6,
+        "active": 3,
         "confirmed": 7,
         "deceased": 0,
         "recovered": 1,
@@ -612,7 +612,7 @@
         }
       },
       "Sittwe": {
-        "active": 264,
+        "active": 257,
         "confirmed": 504,
         "deceased": 0,
         "recovered": 240,
@@ -634,7 +634,7 @@
         }
       },
       "Kyaukpyu": {
-        "active": 45,
+        "active": 44,
         "confirmed": 105,
         "deceased": 0,
         "recovered": 60,
@@ -650,7 +650,7 @@
   "Ayeyarwady": {
     "districtData": {
       "Pathein": {
-        "active": 28,
+        "active": 15,
         "confirmed": 30,
         "deceased": 0,
         "recovered": 2,
@@ -661,7 +661,7 @@
         }
       },
       "Hinthada": {
-        "active": 5,
+        "active": 4,
         "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
@@ -672,7 +672,7 @@
         }
       },
       "Pyapon": {
-        "active": 15,
+        "active": 11,
         "confirmed": 15,
         "deceased": 0,
         "recovered": 0,
@@ -683,7 +683,7 @@
         }
       },
       "Myaungmya": {
-        "active": 5,
+        "active": 4,
         "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
@@ -694,7 +694,7 @@
         }
       },
       "Maubin": {
-        "active": 7,
+        "active": 5,
         "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
