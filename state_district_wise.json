@@ -329,12 +329,12 @@
   "Mon": {
     "districtData": {
       "Mawlamyine": {
-        "active": 80,
-        "confirmed": 84,
+        "active": 81,
+        "confirmed": 85,
         "deceased": 1,
         "recovered": 3,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
