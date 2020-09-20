@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Kamaryut, Yangon",
-    "timestamp": 1598729564
-  },
-  {
     "update": "3 new cases in North Okkalapa, Yangon\n1 new case in Kamaryut, Yangon\n1 new case in Tamwe, Yangon\n1 new case in Dagon Myothit (South), Yangon\n1 new case in Kyaukpyu, Rakhine\n3 new cases in Insein, Yangon\n2 new cases in Bhamo, Kachin\n1 new case in Shwepyithar, Yangon\n3 new cases in Kawthoung, Tanintharyi",
     "timestamp": 1598762603
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Myingyan, Mandalay\n1 new case in Mahaaungmyay, Mandalay\n1 new case in Patheingyi, Mandalay\n1 new case in Pyigyitagon, Mandalay\n1 new case in Chanayethazan, Mandalay\n1 new case in Thingangyun, Yangon\n1 new case in Tamwe, Yangon\n1 new case in Hlaingtharya, Yangon\n1 new case in Twantay, Yangon\n1 new case in South Okkalapa, Yangon\n1 new case in Mingalartaungnyunt, Yangon\n1 new case in Yankin, Yangon\n1 new case in Thaketa, Yangon\n1 new case in Lanmadaw, Yangon\n1 new case in North Okkalapa, Yangon\n1 new case in Dagon Myothit (South), Yangon\n1 new case in Mayangone, Yangon\n1 new case in Kyauktan, Yangon\n1 new case in Shwepyithar, Yangon\n1 new case in Kyeemyindaing, Yangon\n1 new case in Hlaing, Yangon\n1 new case in Insein, Yangon\n1 new case in Mingaladon, Yangon\n1 new case in Botahtaung, Yangon\n1 new case in Thanlyin, Yangon\n1 new case in Dagon Myothit (Seikkan), Yangon\n1 new case in Dala, Yangon\n1 new case in Kyauktada, Yangon\n1 new case in Pabedan, Yangon\n1 new case in Kamaryut, Yangon\n1 new case in Dagon Myothit (North), Yangon\n1 new case in Dawbon, Yangon\n1 new case in Latha, Yangon\n1 new case in Pazundaung, Yangon\n1 new case in Kungyangon, Yangon\n1 new case in Hlegu, Yangon\n1 new case in Dagon Myothit (East), Yangon\n1 new case in Sanchaung, Yangon\n1 new case in Bahan, Yangon\n1 new case in Kayan, Yangon\n1 new case in Ahlone, Yangon\n1 new case in Dagon, Yangon\n1 new case in Thongwa, Yangon\n1 new case in Sittwe, Rakhine\n1 new case in Mrauk-U, Rakhine\n1 new case in Kyaukpyu, Rakhine\n1 new case in Ann, Rakhine\n1 new case in Bilin, Mon\n1 new case in Mawlamyine, Mon\n1 new case in Kyaikto, Mon\n1 new case in Thaton, Mon\n1 new case in Kyaikmaraw, Mon\n1 new case in Nyaunglebin, Bago\n1 new case in Monyo, Bago\n1 new case in Za Bu Thi Ri, Nay Pyi Taw\n1 new case in Pyapon, Ayeyarwady\n1 new case in Bogale, Ayeyarwady\n1 new case in Kangyidaunt, Ayeyarwady\n1 new case in Hinthada, Ayeyarwady\n1 new case in Einme, Ayeyarwady\n1 new case in Kale, Sagaing\n1 new case in Homalin, Sagaing\n1 new case in Yebyu, Tanintharyi\n1 new case in Launglon, Tanintharyi\n1 new case in Magway, Magway\n1 new case in Aunglan, Magway\n1 new case in Hlaingbwe, Kayin\n1 new case in Hpa-An, Kayin\n1 new case in Mindat, Chin",
     "timestamp": 1600606351
+  },
+  {
+    "update": "1 death in Kyeemyindaing, Yangon",
+    "timestamp": 1600608088
   }
 ]

@@ -24,12 +24,12 @@
         }
       },
       "Mindat": {
-        "active": 1,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -62,13 +62,13 @@
         }
       },
       "Yangon (West)": {
-        "active": 834,
+        "active": 833,
         "confirmed": 974,
-        "deceased": 4,
+        "deceased": 5,
         "recovered": 136,
         "delta": {
           "confirmed": 110,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
