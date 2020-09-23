@@ -701,13 +701,13 @@
       },
       {
         "district": "Sittwe",
-        "active": 482,
+        "active": 481,
         "confirmed": 752,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 270,
         "delta": {
           "confirmed": 10,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
