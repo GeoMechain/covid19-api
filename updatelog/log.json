@@ -1,9 +1,5 @@
 [
   {
-    "update": "19 new cases in , ",
-    "timestamp": 1599023326
-  },
-  {
     "update": "57 new cases in , \n2 recoveries in Kamaryut, Yangon",
     "timestamp": 1599056637
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Thingangyun, Yangon",
     "timestamp": 1600918394
+  },
+  {
+    "update": "1 death in Thingangyun, Yangon",
+    "timestamp": 1600921507
   }
 ]
