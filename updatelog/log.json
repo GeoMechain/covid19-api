@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recover in Bahan, Yangon\n1 recover in Mingaladon, Yangon",
-    "timestamp": 1598951350
-  },
-  {
     "update": "32 new cases in , \n1 recover in Mingaladon, Yangon\n1 recover in Hlaing, Yangon\n1 recover in Kamaryut, Yangon",
     "timestamp": 1598976581
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Sittwe, Rakhine",
     "timestamp": 1600857783
+  },
+  {
+    "update": "1 death in Thingangyun, Yangon",
+    "timestamp": 1600914946
   }
 ]
