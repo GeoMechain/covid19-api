@@ -59,9 +59,9 @@
       },
       {
         "district": "Yangon (East)",
-        "active": 1970,
+        "active": 1969,
         "confirmed": 2074,
-        "deceased": 14,
+        "deceased": 15,
         "recovered": 90,
         "delta": {
           "confirmed": 0,
