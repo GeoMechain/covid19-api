@@ -449,8 +449,8 @@
         }
       },
       "Shwebo": {
-        "active": 8,
-        "confirmed": 8,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -487,8 +487,8 @@
   "Kachin": {
     "districtData": {
       "Mohnyin": {
-        "active": 12,
-        "confirmed": 13,
+        "active": 13,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -739,32 +739,5 @@
       }
     },
     "statecode": "MM-07"
-  },
-  "Unknown": {
-    "districtData": {
-      "Shwebo": {
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Mohnyin": {
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      }
-    },
-    "statecode": ""
   }
 }
