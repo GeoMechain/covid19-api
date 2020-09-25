@@ -1895,8 +1895,8 @@
 			"statecode": "TT"
 		},
 		{
-			"active": 29,
-			"confirmed": 38,
+			"active": 30,
+			"confirmed": 39,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -1979,8 +1979,8 @@
 			"statecode": "MM-07"
 		},
 		{
-			"active": 14,
-			"confirmed": 18,
+			"active": 15,
+			"confirmed": 19,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
