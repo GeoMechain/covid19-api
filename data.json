@@ -1987,8 +1987,8 @@
 			"statecode": "MM-06"
 		},
 		{
-			"active": 196,
-			"confirmed": 198,
+			"active": 202,
+			"confirmed": 204,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
