@@ -672,8 +672,8 @@
   "Ayeyarwady": {
     "districtData": {
       "Pathein": {
-        "active": 84,
-        "confirmed": 86,
+        "active": 90,
+        "confirmed": 92,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -743,8 +743,8 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "active": 7,
-        "confirmed": 7,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
