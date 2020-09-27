@@ -743,8 +743,8 @@
     "districtData": [
       {
         "district": "Pathein",
-        "active": 90,
-        "confirmed": 92,
+        "active": 84,
+        "confirmed": 86,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -821,8 +821,8 @@
     "districtData": [
       {
         "district": "Unknown",
-        "active": 1,
-        "confirmed": 1,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
