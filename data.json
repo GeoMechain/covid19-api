@@ -1891,22 +1891,22 @@
 			"totalrecovered": 908
 		},
 		{
-			"active": 8176,
-			"dailyconfirmed": 0,
+			"active": 9056,
+			"dailyconfirmed": 880,
 			"dailydeceased": 0,
 			"dailyrecovered": 0,
 			"date": "27/09/2020",
-			"totalconfirmed": 9111,
+			"totalconfirmed": 9991,
 			"totaldeceased": 27,
 			"totalrecovered": 908
 		}
 	],
 	"statewise": [
 		{
-			"active": 8176,
-			"confirmed": 9111,
+			"active": 9056,
+			"confirmed": 9991,
 			"deaths": 27,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 880,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -1915,10 +1915,10 @@
 			"statecode": "TT"
 		},
 		{
-			"active": 39,
-			"confirmed": 48,
+			"active": 45,
+			"confirmed": 54,
 			"deaths": 0,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 6,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -1927,10 +1927,10 @@
 			"statecode": "MM-01"
 		},
 		{
-			"active": 252,
-			"confirmed": 290,
+			"active": 273,
+			"confirmed": 311,
 			"deaths": 1,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 21,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -1939,10 +1939,10 @@
 			"statecode": "MM-02"
 		},
 		{
-			"active": 25,
-			"confirmed": 29,
+			"active": 29,
+			"confirmed": 33,
 			"deaths": 0,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 4,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -1951,10 +1951,10 @@
 			"statecode": "MM-03"
 		},
 		{
-			"active": 225,
-			"confirmed": 231,
+			"active": 229,
+			"confirmed": 235,
 			"deaths": 0,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 4,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -1963,10 +1963,10 @@
 			"statecode": "MM-04"
 		},
 		{
-			"active": 19,
-			"confirmed": 24,
+			"active": 20,
+			"confirmed": 25,
 			"deaths": 0,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 1,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -1975,10 +1975,10 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 6248,
-			"confirmed": 6603,
+			"active": 7012,
+			"confirmed": 7367,
 			"deaths": 24,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 764,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -1987,10 +1987,10 @@
 			"statecode": "MM-06"
 		},
 		{
-			"active": 196,
-			"confirmed": 198,
+			"active": 213,
+			"confirmed": 215,
 			"deaths": 0,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 11,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -2023,10 +2023,10 @@
 			"statecode": "MM-12"
 		},
 		{
-			"active": 13,
-			"confirmed": 42,
+			"active": 15,
+			"confirmed": 44,
 			"deaths": 0,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 2,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -2047,10 +2047,10 @@
 			"statecode": "MM-14"
 		},
 		{
-			"active": 223,
-			"confirmed": 230,
+			"active": 236,
+			"confirmed": 243,
 			"deaths": 1,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 13,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -2059,10 +2059,10 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 803,
-			"confirmed": 1246,
+			"active": 838,
+			"confirmed": 1281,
 			"deaths": 1,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 35,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
@@ -2083,10 +2083,10 @@
 			"statecode": "MM-17"
 		},
 		{
-			"active": 89,
-			"confirmed": 93,
+			"active": 104,
+			"confirmed": 108,
 			"deaths": 0,
-			"deltaconfirmed": 0,
+			"deltaconfirmed": 15,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "27/09/2020 17:28:21",
