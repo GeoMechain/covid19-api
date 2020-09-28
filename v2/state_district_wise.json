@@ -563,12 +563,12 @@
     "districtData": [
       {
         "district": "Mohnyin",
-        "active": 15,
-        "confirmed": 16,
+        "active": 18,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -851,18 +851,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Mohnyin",
-        "active": 3,
-        "confirmed": 3,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
