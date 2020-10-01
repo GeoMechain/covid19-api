@@ -221,8 +221,8 @@
     "districtData": [
       {
         "district": "Kyaukme",
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -440,6 +440,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Minbu",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -563,8 +575,8 @@
     "districtData": [
       {
         "district": "Mohnyin",
-        "active": 20,
-        "confirmed": 21,
+        "active": 42,
+        "confirmed": 43,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -845,20 +857,8 @@
     "districtData": [
       {
         "district": "Unknown",
-        "active": 4,
-        "confirmed": 4,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Mohnyin",
-        "active": 22,
-        "confirmed": 22,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {

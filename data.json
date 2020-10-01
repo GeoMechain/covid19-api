@@ -1979,8 +1979,8 @@
 			"statecode": "MM-02"
 		},
 		{
-			"active": 40,
-			"confirmed": 44,
+			"active": 41,
+			"confirmed": 45,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -2039,8 +2039,8 @@
 			"statecode": "MM-07"
 		},
 		{
-			"active": 23,
-			"confirmed": 27,
+			"active": 45,
+			"confirmed": 49,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -2111,8 +2111,8 @@
 			"statecode": "MM-16"
 		},
 		{
-			"active": 17,
-			"confirmed": 28,
+			"active": 18,
+			"confirmed": 29,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
