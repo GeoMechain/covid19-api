@@ -5,12 +5,12 @@
     "districtData": [
       {
         "district": "Falam",
-        "active": 3,
-        "confirmed": 18,
+        "active": 4,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 15,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -47,48 +47,48 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "active": 2107,
-        "confirmed": 2211,
+        "active": 2226,
+        "confirmed": 2330,
         "deceased": 2,
         "recovered": 102,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 119,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Yangon (East)",
-        "active": 3780,
-        "confirmed": 3885,
+        "active": 4219,
+        "confirmed": 4324,
         "deceased": 15,
         "recovered": 90,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 439,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Yangon (West)",
-        "active": 2630,
-        "confirmed": 2771,
+        "active": 2851,
+        "confirmed": 2992,
         "deceased": 5,
         "recovered": 136,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 221,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Yangon (South)",
-        "active": 1097,
-        "confirmed": 1102,
+        "active": 1178,
+        "confirmed": 1183,
         "deceased": 2,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 81,
           "deceased": 0,
           "recovered": 0
         }
@@ -101,12 +101,12 @@
     "districtData": [
       {
         "district": "Mandalay",
-        "active": 162,
-        "confirmed": 167,
+        "active": 194,
+        "confirmed": 199,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 32,
           "deceased": 0,
           "recovered": 0
         }
@@ -125,24 +125,24 @@
       },
       {
         "district": "Myingyan",
-        "active": 68,
-        "confirmed": 68,
+        "active": 70,
+        "confirmed": 70,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Meiktila",
-        "active": 31,
-        "confirmed": 31,
+        "active": 37,
+        "confirmed": 37,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -161,12 +161,12 @@
       },
       {
         "district": "Nyaung-U",
-        "active": 8,
-        "confirmed": 8,
+        "active": 14,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -191,24 +191,24 @@
     "districtData": [
       {
         "district": "Det Khi Na",
-        "active": 108,
-        "confirmed": 110,
+        "active": 112,
+        "confirmed": 114,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Oke Ta Ra",
-        "active": 18,
-        "confirmed": 20,
+        "active": 19,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -311,48 +311,48 @@
     "districtData": [
       {
         "district": "Pyay",
-        "active": 31,
-        "confirmed": 39,
+        "active": 32,
+        "confirmed": 40,
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Bago",
-        "active": 236,
-        "confirmed": 265,
+        "active": 241,
+        "confirmed": 270,
         "deceased": 0,
         "recovered": 29,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Taungoo",
-        "active": 80,
-        "confirmed": 81,
+        "active": 81,
+        "confirmed": 82,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Thayarwady",
-        "active": 55,
-        "confirmed": 55,
+        "active": 56,
+        "confirmed": 56,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -365,24 +365,24 @@
     "districtData": [
       {
         "district": "Mawlamyine",
-        "active": 173,
-        "confirmed": 180,
+        "active": 182,
+        "confirmed": 189,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Thaton",
-        "active": 102,
-        "confirmed": 102,
+        "active": 109,
+        "confirmed": 109,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -395,12 +395,12 @@
     "districtData": [
       {
         "district": "Magway",
-        "active": 30,
-        "confirmed": 33,
+        "active": 31,
+        "confirmed": 34,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -461,12 +461,12 @@
     "districtData": [
       {
         "district": "Kale",
-        "active": 17,
-        "confirmed": 23,
+        "active": 20,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -533,12 +533,12 @@
       },
       {
         "district": "Monywa",
-        "active": 6,
-        "confirmed": 6,
+        "active": 18,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -629,12 +629,12 @@
     "districtData": [
       {
         "district": "Myeik",
-        "active": 15,
-        "confirmed": 16,
+        "active": 20,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -683,12 +683,12 @@
       },
       {
         "district": "Hpa-An",
-        "active": 11,
-        "confirmed": 35,
+        "active": 15,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 24,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -737,36 +737,36 @@
       },
       {
         "district": "Sittwe",
-        "active": 689,
-        "confirmed": 960,
+        "active": 698,
+        "confirmed": 969,
         "deceased": 1,
         "recovered": 270,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Mrauk-U",
-        "active": 182,
-        "confirmed": 238,
+        "active": 184,
+        "confirmed": 240,
         "deceased": 0,
         "recovered": 56,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Kyaukpyu",
-        "active": 166,
-        "confirmed": 229,
+        "active": 168,
+        "confirmed": 231,
         "deceased": 0,
         "recovered": 63,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -779,24 +779,24 @@
     "districtData": [
       {
         "district": "Pathein",
-        "active": 115,
-        "confirmed": 117,
+        "active": 145,
+        "confirmed": 147,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 30,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Hinthada",
-        "active": 12,
-        "confirmed": 12,
+        "active": 14,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -827,12 +827,12 @@
       },
       {
         "district": "Maubin",
-        "active": 104,
-        "confirmed": 104,
+        "active": 108,
+        "confirmed": 108,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
