@@ -1979,7 +1979,7 @@
 			"deltaconfirmed": 975,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 908,
 			"state": "Total",
 			"statecode": "TT"
@@ -1991,7 +1991,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 9,
 			"state": "Sagaing",
 			"statecode": "MM-01"
@@ -2003,7 +2003,7 @@
 			"deltaconfirmed": 55,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 37,
 			"state": "Bago",
 			"statecode": "MM-02"
@@ -2015,7 +2015,7 @@
 			"deltaconfirmed": 9,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 4,
 			"state": "Magway",
 			"statecode": "MM-03"
@@ -2027,7 +2027,7 @@
 			"deltaconfirmed": 57,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 6,
 			"state": "Mandalay",
 			"statecode": "MM-04"
@@ -2039,7 +2039,7 @@
 			"deltaconfirmed": 4,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 5,
 			"state": "Tanintharyi",
 			"statecode": "MM-05"
@@ -2051,7 +2051,7 @@
 			"deltaconfirmed": 711,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 331,
 			"state": "Yangon",
 			"statecode": "MM-06"
@@ -2063,7 +2063,7 @@
 			"deltaconfirmed": 2,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 2,
 			"state": "Ayeyarwady",
 			"statecode": "MM-07"
@@ -2075,7 +2075,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 4,
 			"state": "Kachin",
 			"statecode": "MM-11"
@@ -2087,7 +2087,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 0,
 			"state": "Kayah",
 			"statecode": "MM-12"
@@ -2099,7 +2099,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 29,
 			"state": "Kayin",
 			"statecode": "MM-13"
@@ -2111,7 +2111,7 @@
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 18,
 			"state": "Chin",
 			"statecode": "MM-14"
@@ -2123,7 +2123,7 @@
 			"deltaconfirmed": 9,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 6,
 			"state": "Mon",
 			"statecode": "MM-15"
@@ -2135,7 +2135,7 @@
 			"deltaconfirmed": 115,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 442,
 			"state": "Rakhine",
 			"statecode": "MM-16"
@@ -2147,7 +2147,7 @@
 			"deltaconfirmed": 4,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 11,
 			"state": "Shan",
 			"statecode": "MM-17"
@@ -2159,7 +2159,7 @@
 			"deltaconfirmed": 9,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
-			"lastupdatedtime": "04/10/2020 19:48:30",
+			"lastupdatedtime": "04/10/2020 20:09:04",
 			"recovered": 4,
 			"state": "Nay Pyi Taw",
 			"statecode": "MM-18"
