@@ -47,8 +47,8 @@
     "districtData": [
       {
         "district": "Yangon (North)",
-        "active": 2648,
-        "confirmed": 2752,
+        "active": 2634,
+        "confirmed": 2738,
         "deceased": 2,
         "recovered": 102,
         "delta": {
@@ -335,8 +335,8 @@
       },
       {
         "district": "Taungoo",
-        "active": 25,
-        "confirmed": 26,
+        "active": 39,
+        "confirmed": 40,
         "deceased": 0,
         "recovered": 1,
         "delta": {
