@@ -155,8 +155,8 @@
         }
       },
       "Kyaukse": {
-        "active": 9,
-        "confirmed": 9,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -242,8 +242,8 @@
         }
       },
       "Loilen": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -400,8 +400,8 @@
         }
       },
       "Minbu": {
-        "active": 11,
-        "confirmed": 11,
+        "active": 12,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -776,8 +776,8 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "active": 23,
-        "confirmed": 23,
+        "active": 18,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 0,
         "delta": {
