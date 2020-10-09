@@ -2059,8 +2059,8 @@
 			"statecode": "MM-02"
 		},
 		{
-			"active": 80,
-			"confirmed": 84,
+			"active": 81,
+			"confirmed": 85,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
