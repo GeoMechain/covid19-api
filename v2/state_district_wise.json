@@ -443,8 +443,8 @@
       },
       {
         "district": "Minbu",
-        "active": 12,
-        "confirmed": 12,
+        "active": 13,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -857,8 +857,8 @@
     "districtData": [
       {
         "district": "Unknown",
-        "active": 19,
-        "confirmed": 19,
+        "active": 18,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 0,
         "delta": {
