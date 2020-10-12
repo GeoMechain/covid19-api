@@ -2053,7 +2053,7 @@
 	],
 	"statewise": [
 		{
-			"active": 22971,
+			"active": 25129,
 			"confirmed": 26064,
 			"deaths": 27,
 			"deltaconfirmed": 0,
@@ -2065,7 +2065,7 @@
 			"statecode": "TT"
 		},
 		{
-			"active": 154,
+			"active": 173,
 			"confirmed": 182,
 			"deaths": 0,
 			"deltaconfirmed": 0,
@@ -2077,7 +2077,7 @@
 			"statecode": "MM-01"
 		},
 		{
-			"active": 663,
+			"active": 740,
 			"confirmed": 778,
 			"deaths": 1,
 			"deltaconfirmed": 0,
@@ -2089,7 +2089,7 @@
 			"statecode": "MM-02"
 		},
 		{
-			"active": 125,
+			"active": 151,
 			"confirmed": 155,
 			"deaths": 0,
 			"deltaconfirmed": 0,
@@ -2101,7 +2101,7 @@
 			"statecode": "MM-03"
 		},
 		{
-			"active": 636,
+			"active": 675,
 			"confirmed": 681,
 			"deaths": 0,
 			"deltaconfirmed": 0,
@@ -2113,7 +2113,7 @@
 			"statecode": "MM-04"
 		},
 		{
-			"active": 64,
+			"active": 65,
 			"confirmed": 70,
 			"deaths": 0,
 			"deltaconfirmed": 0,
@@ -2125,7 +2125,7 @@
 			"statecode": "MM-05"
 		},
 		{
-			"active": 18592,
+			"active": 20498,
 			"confirmed": 20853,
 			"deaths": 24,
 			"deltaconfirmed": 0,
@@ -2137,7 +2137,7 @@
 			"statecode": "MM-06"
 		},
 		{
-			"active": 501,
+			"active": 524,
 			"confirmed": 526,
 			"deaths": 0,
 			"deltaconfirmed": 0,
@@ -2173,7 +2173,7 @@
 			"statecode": "MM-12"
 		},
 		{
-			"active": 35,
+			"active": 41,
 			"confirmed": 70,
 			"deaths": 0,
 			"deltaconfirmed": 0,
@@ -2185,7 +2185,7 @@
 			"statecode": "MM-13"
 		},
 		{
-			"active": 28,
+			"active": 29,
 			"confirmed": 47,
 			"deaths": 0,
 			"deltaconfirmed": 0,
@@ -2197,7 +2197,7 @@
 			"statecode": "MM-14"
 		},
 		{
-			"active": 384,
+			"active": 413,
 			"confirmed": 420,
 			"deaths": 1,
 			"deltaconfirmed": 0,
@@ -2209,7 +2209,7 @@
 			"statecode": "MM-15"
 		},
 		{
-			"active": 1451,
+			"active": 1474,
 			"confirmed": 1917,
 			"deaths": 1,
 			"deltaconfirmed": 0,
@@ -2221,7 +2221,7 @@
 			"statecode": "MM-16"
 		},
 		{
-			"active": 50,
+			"active": 53,
 			"confirmed": 64,
 			"deaths": 0,
 			"deltaconfirmed": 0,
@@ -2233,7 +2233,7 @@
 			"statecode": "MM-17"
 		},
 		{
-			"active": 198,
+			"active": 203,
 			"confirmed": 207,
 			"deaths": 0,
 			"deltaconfirmed": 0,
