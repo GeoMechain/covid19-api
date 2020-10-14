@@ -2157,8 +2157,8 @@
 			"statecode": "MM-06"
 		},
 		{
-			"active": 597,
-			"confirmed": 599,
+			"active": 598,
+			"confirmed": 600,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -2169,8 +2169,8 @@
 			"statecode": "MM-07"
 		},
 		{
-			"active": 73,
-			"confirmed": 77,
+			"active": 81,
+			"confirmed": 85,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
