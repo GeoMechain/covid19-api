@@ -531,8 +531,8 @@
   "Kachin": {
     "districtData": {
       "Mohnyin": {
-        "active": 66,
-        "confirmed": 67,
+        "active": 74,
+        "confirmed": 75,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -716,8 +716,8 @@
   "Ayeyarwady": {
     "districtData": {
       "Pathein": {
-        "active": 180,
-        "confirmed": 182,
+        "active": 181,
+        "confirmed": 183,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -787,19 +787,8 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "active": 26,
-        "confirmed": 26,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Mohnyin": {
-        "active": 8,
-        "confirmed": 8,
+        "active": 25,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 0,
         "delta": {
