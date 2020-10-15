@@ -62,12 +62,12 @@
         }
       },
       "Yangon (East)": {
-        "active": 9031,
-        "confirmed": 9136,
+        "active": 9030,
+        "confirmed": 9135,
         "deceased": 15,
         "recovered": 90,
         "delta": {
-          "confirmed": 228,
+          "confirmed": 227,
           "deceased": 0,
           "recovered": 0
         }
