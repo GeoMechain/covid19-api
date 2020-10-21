@@ -2155,10 +2155,10 @@
 			"statecode": "TT"
 		},
 		{
-			"active": 282,
-			"confirmed": 291,
+			"active": 280,
+			"confirmed": 289,
 			"deaths": 0,
-			"deltaconfirmed": 9,
+			"deltaconfirmed": 7,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "21/10/2020 20:45:52",
@@ -2179,10 +2179,10 @@
 			"statecode": "MM-02"
 		},
 		{
-			"active": 373,
-			"confirmed": 377,
+			"active": 369,
+			"confirmed": 373,
 			"deaths": 0,
-			"deltaconfirmed": 61,
+			"deltaconfirmed": 57,
 			"deltadeaths": 0,
 			"deltarecovered": 0,
 			"lastupdatedtime": "21/10/2020 20:45:52",
@@ -2227,8 +2227,8 @@
 			"statecode": "MM-06"
 		},
 		{
-			"active": 756,
-			"confirmed": 758,
+			"active": 754,
+			"confirmed": 756,
 			"deaths": 0,
 			"deltaconfirmed": 9,
 			"deltadeaths": 0,
