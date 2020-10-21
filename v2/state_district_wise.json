@@ -467,8 +467,8 @@
       },
       {
         "district": "Minbu",
-        "active": 54,
-        "confirmed": 54,
+        "active": 50,
+        "confirmed": 50,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -605,8 +605,8 @@
       },
       {
         "district": "Kanbalu",
-        "active": 3,
-        "confirmed": 3,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -827,8 +827,8 @@
     "districtData": [
       {
         "district": "Pathein",
-        "active": 211,
-        "confirmed": 213,
+        "active": 209,
+        "confirmed": 211,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -905,8 +905,8 @@
     "districtData": [
       {
         "district": "Unknown",
-        "active": 25,
-        "confirmed": 25,
+        "active": 33,
+        "confirmed": 33,
         "deceased": 0,
         "recovered": 0,
         "delta": {
