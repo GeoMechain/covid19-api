@@ -2165,8 +2165,8 @@
 			"statecode": "TT"
 		},
 		{
-			"active": 288,
-			"confirmed": 297,
+			"active": 280,
+			"confirmed": 289,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -2189,8 +2189,8 @@
 			"statecode": "MM-02"
 		},
 		{
-			"active": 375,
-			"confirmed": 379,
+			"active": 369,
+			"confirmed": 373,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
@@ -2237,8 +2237,8 @@
 			"statecode": "MM-06"
 		},
 		{
-			"active": 756,
-			"confirmed": 758,
+			"active": 754,
+			"confirmed": 756,
 			"deaths": 0,
 			"deltaconfirmed": 0,
 			"deltadeaths": 0,
