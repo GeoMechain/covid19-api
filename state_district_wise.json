@@ -51,12 +51,12 @@
   "Yangon": {
     "districtData": {
       "Yangon (North)": {
-        "active": 7748,
-        "confirmed": 7852,
+        "active": 7828,
+        "confirmed": 7932,
         "deceased": 2,
         "recovered": 102,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 80,
           "deceased": 0,
           "recovered": 0
         }
@@ -166,8 +166,8 @@
         }
       },
       "Kyaukse": {
-        "active": 27,
-        "confirmed": 27,
+        "active": 28,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -504,8 +504,8 @@
         }
       },
       "Shwebo": {
-        "active": 80,
-        "confirmed": 80,
+        "active": 85,
+        "confirmed": 85,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -842,19 +842,8 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "active": 18,
-        "confirmed": 18,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Shwebo": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 17,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 0,
         "delta": {
