@@ -411,8 +411,8 @@
         }
       },
       "Gangaw": {
-        "active": 9,
-        "confirmed": 9,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -586,8 +586,8 @@
   "Kachin": {
     "districtData": {
       "Mohnyin": {
-        "active": 110,
-        "confirmed": 111,
+        "active": 107,
+        "confirmed": 108,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -842,8 +842,19 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "active": 17,
-        "confirmed": 17,
+        "active": 18,
+        "confirmed": 18,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Mohnyin": {
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
