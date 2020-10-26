@@ -455,8 +455,8 @@
       },
       {
         "district": "Gangaw",
-        "active": 8,
-        "confirmed": 8,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -647,8 +647,8 @@
     "districtData": [
       {
         "district": "Mohnyin",
-        "active": 107,
-        "confirmed": 108,
+        "active": 110,
+        "confirmed": 111,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -929,20 +929,8 @@
     "districtData": [
       {
         "district": "Unknown",
-        "active": 18,
-        "confirmed": 18,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Mohnyin",
-        "active": 3,
-        "confirmed": 3,
+        "active": 17,
+        "confirmed": 17,
         "deceased": 0,
         "recovered": 0,
         "delta": {
