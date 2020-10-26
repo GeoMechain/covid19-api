@@ -104,6 +104,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "active": 17,
+        "confirmed": 17,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -913,24 +925,6 @@
         "district": "Labutta",
         "active": 55,
         "confirmed": 55,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "statecode": "",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "active": 17,
-        "confirmed": 17,
         "deceased": 0,
         "recovered": 0,
         "delta": {

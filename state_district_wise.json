@@ -93,6 +93,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 17,
+        "confirmed": 17,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MM-06"
@@ -838,22 +849,6 @@
       }
     },
     "statecode": "MM-07"
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "active": 17,
-        "confirmed": 17,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      }
-    },
-    "statecode": ""
   },
   "Kayah": {
     "districtData": {
