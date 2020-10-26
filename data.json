@@ -2205,8 +2205,8 @@
 			"statecode": "TT"
 		},
 		{
-			"active": 322,
-			"confirmed": 331,
+			"active": 324,
+			"confirmed": 333,
 			"deaths": 0,
 			"deltaconfirmed": 11,
 			"deltadeaths": 0,
